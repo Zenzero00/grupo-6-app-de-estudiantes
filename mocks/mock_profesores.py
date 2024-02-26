@@ -22,6 +22,4 @@ profesores = [
 ]
 
 
-# print("Nombre: ", profesores[0]["nombre"])
-# print("DNI: ", profesores[0]["dni"])
-# print("Correo: ", profesores[0]["correo"])
+
