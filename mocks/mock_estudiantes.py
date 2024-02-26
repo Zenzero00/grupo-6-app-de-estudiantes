@@ -1,3 +1,5 @@
+from action_list import listar_estudiantes 
+
 mock_estudiantes = [
     {
         'dni': '12345678A',
@@ -80,3 +82,5 @@ mock_estudiantes = [
         'tema': 'Idiomas'
     }
 ]
+
+listar_estudiantes()
